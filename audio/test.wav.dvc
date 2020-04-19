@@ -1,0 +1,7 @@
+md5: 3ef4c19db6d09cd23af6a73baa251397
+outs:
+- md5: d41d8cd98f00b204e9800998ecf8427e
+  path: test.wav
+  cache: true
+  metric: false
+  persist: false
