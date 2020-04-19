@@ -1,0 +1,7 @@
+md5: 6a4a504ca6ee8184ded26c442c30791b
+outs:
+- md5: a9150474994498d6cbb3299614ab39d5
+  path: margot_robbie.jpg
+  cache: true
+  metric: false
+  persist: false
