@@ -1,0 +1,7 @@
+md5: d734e020a69233d000fab3cea7110f15
+outs:
+- md5: deb2322e5f8d523ba9449e78b9eaaf27
+  path: rabbit.jpg
+  cache: true
+  metric: false
+  persist: false
