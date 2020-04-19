@@ -1,0 +1,7 @@
+md5: 75c32e4ac9733c6284553e0dde62189d
+outs:
+- md5: d41d8cd98f00b204e9800998ecf8427e
+  path: 123.png
+  cache: true
+  metric: false
+  persist: false
