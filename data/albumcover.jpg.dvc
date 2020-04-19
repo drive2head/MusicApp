@@ -1,0 +1,7 @@
+md5: 27923d9f8ec8e8b3c8dca15b158ca249
+outs:
+- md5: 5a2691ab5709ff6dbf2001195c6df375
+  path: albumcover.jpg
+  cache: true
+  metric: false
+  persist: false
